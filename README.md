@@ -24,3 +24,9 @@ Solo puedes permitirte invitar a las bebidas, ya que estás un poco ajustado de 
 Tienes un ticket de cena que cuesta 120 € y en el que ya se incluyen las bebidas por un valor de 18 €.
 Calcula cuánto tendría que pagar cada comensal para dividir los costos de manera equitativa.
 Utiliza JavaScript para hacer el cálculo y mostrar el resultado por consola."
+
+- Una vez terminado el ejercicio, he borrado el directorio de git con: rm -rf .git.
+- He iniciado el repo local con git init.
+- Me he creado un repositorio nuevo en github y he sincronizado mi repositorio local, con el repositorio remoto de github, con los siguientes comandos.
+  git remote add origin "nombre del repo"
+  git push -u origin main
