@@ -1,4 +1,6 @@
 
-.DS_store
 node_modules
-*.txt
+.parcel-cache
+config
+.DS_store
+package-lock.json
